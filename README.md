@@ -1,6 +1,6 @@
 # Gerenciador-de-Leitura
 
-Bibliotecas usada foi customtkinter
+Bibliotecas usada foi customtkinter, os e tkinter
 
 Funções:
 -Criar usuário(nome,idade,cidade,estado,preferencia,livros físicos, livros digitais, preferência, horas de estudo, horas de entretenimento)
